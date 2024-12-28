@@ -1,3 +1,7 @@
+# Author : Samridhi Gupta
+# Date : 28-12-2024
+# Program : Amrstrong Number
+    
 import java.util.Scanner;
 
 public class Armstrong {
